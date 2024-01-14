@@ -13,5 +13,7 @@ The second project, a user-facing item that appears in the foreground, is presse
 ## project-3
 
 1-it is a simple project to display an alert when the input button is pressed in the first example .
+
 2.the second example is the same as the first one, with a different alarm display function.
+
 3-the third example is to change the background color by simply moving the mouse over it.
